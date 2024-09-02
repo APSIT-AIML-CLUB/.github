@@ -20,13 +20,6 @@ Interested in joining us? Here’s how you can get involved:
 1. **Join Our Meetings:** Attend our regular meetings and workshops to stay updated and participate in discussions.
 2. **Follow Us:** Stay connected with us on social media and keep up with our latest news and events.
 
-## How to Contribute 💡
-
-We welcome contributions from all members and the community. Here’s how you can contribute:
-
-1. **Fork the Repository:** Fork our repository to make changes and improvements.
-2. **Report Issues:** If you encounter any issues or have suggestions, please open an issue to let us know.
-
 ## Connect With Us 📧
 
 For any questions or inquiries, feel free to reach out to us at:
