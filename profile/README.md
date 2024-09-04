@@ -1,6 +1,6 @@
 # APSIT AIML CLUB 🤖✨
 
-Welcome to the official GitHub repository of **APSIT AIML CLUB**! We're excited to have you here.
+Welcome to the official GitHub organisation page of **APSIT AIML CLUB**! We're excited to have you here.
 
 ## About Us 🏫
 
