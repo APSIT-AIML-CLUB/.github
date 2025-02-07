@@ -17,7 +17,7 @@ Welcome to the official GitHub organisation page of **APSIT AIML CLUB**! We're e
 
 Interested in joining us? Here’s how you can get involved:
 
-1. **Join Our Meetings:** Attend our regular meetings and workshops to stay updated and participate in discussions.
+1. **Join Our Events:** Attend our regular events and workshops to stay updated and participate in discussions.
 2. **Follow Us:** Stay connected with us on social media and keep up with our latest news and events.
 
 ## Connect With Us 📧
